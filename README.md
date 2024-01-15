@@ -1,4 +1,4 @@
-<div style="position: relative; text-align: center; background-image: url("https://i.pinimg.com/564x/59/4f/c6/594fc6a2d5940ab2fd11e1bccec8f217.jpg");">
+<div style="position: relative; text-align: center;">
 <h1 align="center">Hey, I'm Sofia!</h1>
 <h3 align="center">A full stack developer with Portuguese roots looking for opportunities anywhere 🌎</h3>
 
